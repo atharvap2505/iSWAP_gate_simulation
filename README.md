@@ -114,7 +114,6 @@ deactivate
 - `iSWAP_simulation.ipynb` - Main Jupyter notebook containing the simulation code
 - `requirements.txt` - Python package dependencies
 - `README.md` - This file
-- `documentation.tex` - LaTeX source for comprehensive documentation
 - `documentation.pdf` - Compiled PDF documentation of the code and theory
 - `concurrence_plot.png` - Generated plot of entanglement dynamics
 - `circuit_diagram.txt` - Text representation of the quantum circuit
